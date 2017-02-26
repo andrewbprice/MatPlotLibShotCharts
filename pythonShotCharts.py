@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 from matplotlib.patches import Circle, Rectangle, Arc
 
-df = pd.read_csv("C:/Users/andrewp/Dropbox/Spatial Jam/NBL/shotData/2016-17/combinedShotsNBL.csv")
+df = pd.read_csv("### CSV FILE ###")
 
 ######
 
